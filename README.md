@@ -4,7 +4,7 @@
 
 <br>
 
-- I'm very hungry and
+- I'm very hungry and ...
 - I'm currently learning everything 
 
 <br><br>
