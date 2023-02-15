@@ -4,8 +4,9 @@
 
 <br>
 
-- I'm very hungry and ...
-- I'm currently learning everything 
+- I'm currently learning everything.
+- I'm sleepy now.
+- I'm going to bed.
 
 <br><br>
 
