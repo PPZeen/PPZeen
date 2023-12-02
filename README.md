@@ -5,7 +5,7 @@
 <br>
 
 - I'm currently learning everything.
-- I'm interested in Big Data and DevOps.
+- I'm interested in Full-Stack Developer, and DevOps, Big Data.
 
 <br><br>
 
@@ -41,7 +41,7 @@
 <br>
 
 
-## Stasistic:
+## Statistics:
 
 <p align="center">
     <a href="https://github.com/PPZeen/github-readme-stats">
