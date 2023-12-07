@@ -1,5 +1,5 @@
 <h2>Hi , I'm Prite Nutthavat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
-<h4>If you were interested in me. follow to <a href="https://clothing4u.vercel.app/">My Website</a></h4>
+<h4>If you were interested in me. follow to <a href="https://clothing4u.vercel.app/" target="_blank">My Website</a></h4>
 <picture> <img align="right" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/about_me.gif" width = 180px></picture>
 
 <br>
