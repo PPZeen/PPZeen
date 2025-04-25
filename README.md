@@ -3,8 +3,7 @@
 <h4>If you were interested in me. follow to <a href="https://zenzor.vercel.app/" target="_blank">My Website</a></h4>
 <br>
 
-- I'm currently learning everything.
-- I'm interested in Full-Stack Developer, and DevOps, Big Data.
+- I'm interested in Full-Stack Developer, DevOps, Big Data, and AI.
 
 <br><br>
 
